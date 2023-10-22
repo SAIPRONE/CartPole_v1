@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: saibrone
+@author: Fadi Helal
 """
 
 import random
