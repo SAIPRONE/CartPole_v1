@@ -1,5 +1,6 @@
 # CartPole_v1
 # DQN Agent for OpenAI Gym Environments 🚀
+![CPV1](https://github.com/SAIPRONE/CartPole_v1/assets/95390348/a5dd8d8c-fc00-4273-8f9a-79ea7a9ff824)
 
 A Deep Q-Network (DQN) implementation designed  to tackle the classic reinforcement learning problems `CartPole-v1` and `MountainCar-v1` from OpenAI's Gym.
 
