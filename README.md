@@ -6,7 +6,7 @@ A Deep Q-Network (DQN) implementation designed  to tackle the classic reinforcem
 ## 🎮 Environments
 
 1. [CartPole-v1](https://gym.openai.com/envs/CartPole-v1/)
-2. [MountainCar-v1](https://gym.openai.com/envs/MountainCar-v1/) (Commented out in the code, just uncomment to use)
+2. [MountainCar-v0](https://gym.openai.com/envs/MountainCar-v0/) (Commented out in the code, just uncomment to use)
 
 ## 🕹️ How to Use
 
